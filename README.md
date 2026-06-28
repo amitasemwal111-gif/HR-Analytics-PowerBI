@@ -55,5 +55,5 @@ Created an interactive dashboard to analyze:
 
   ## Dashboard Preview
 
-![HR Analytics Dashboard](workforce%20analytics.png)
+![HR Analytics Dashboard](dashboard.png)
 
