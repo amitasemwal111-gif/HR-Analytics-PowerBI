@@ -53,3 +53,7 @@ Created an interactive dashboard to analyze:
 * Dashboard Design
 * Basic DAX
 
+  ## Dashboard Preview
+
+![HR Analytics Dashboard](workforce%20analytics.png)
+
